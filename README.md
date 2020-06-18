@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/kondrasso/DQN/blob/master/DQN_QUEUE.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kondrasso/DQN/blob/master/DQN_QUEUE.ipynb]
 
 # Queue managind via DQN agent
 
