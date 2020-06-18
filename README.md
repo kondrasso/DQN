@@ -26,7 +26,7 @@ Queue consists of patients, which are represented by ![img](https://latex.codeco
 
 Thus, in each given time state-space (queue) is
 
-![img](https://latex.codecogs.com/gif.latex?Q%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B11%7D%20%26%20a_%7B21%7D%20%26%20%5Cdots%20%5C%5C%20%5Cvdots%20%26%20%5Cddots%20%26%20%5C%5C%20a_%7B1n%7D%20%26%20%26%20a_%7Bnn%7D%20%5Cend%7Bbmatrix%7D)
+![img](https://latex.codecogs.com/gif.latex?Q%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_%7B11%7D%20%26%20x_%7B21%7D%20%26%20%5Cdots%20%5C%5C%20%5Cvdots%20%26%20%5Cddots%20%26%20%5C%5C%20x_%7B1n%7D%20%26%20%26%20x_%7Bnn%7D%20%5Cend%7Bbmatrix%7D)
 
 ## Actions
 
