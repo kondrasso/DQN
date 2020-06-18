@@ -10,8 +10,6 @@ Thus we can find a balance between abstract and real, which gives us opportunity
 
 ## Queue model
 
-Queue consists of patients, which are represented by 1x16 vectors
+Queue consists of patients, which are represented by ![https://latex.codecogs.com/gif.latex?16%5Ctimes%201] vectors
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+
