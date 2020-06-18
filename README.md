@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://colab.research.google.com/github/kondrasso/DQN/blob/master/DQN_QUEUE.ipynb]
+
 # Queue managind via DQN agent
 
 Application of DQN algorithm in RL model to queue management. Data used in this project comes from [COVID-2019 dataset](https://www.kaggle.com/iamhungundji/covid19-symptoms-checker)  
